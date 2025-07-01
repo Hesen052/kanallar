@@ -22,7 +22,7 @@ https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:-1 tvg-name="Space TV 720p" tvg-id="Space TV 720p.tr" tvg-logo="https://acra.gov.az/storage/1182/Space-Logo--(1).jpg" group-title="AZERBAYCAN KANALLARI",Space TV 720p
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-name="ARB 24 TV 1080p" tvg-id="ARB 24 TV 1080p.tr" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="AZERBAYCAN KANALLARI",ARB 24 TV 1080p
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1751373095&playlistlength=5&shift=0&sid=coder_51&token=9f5f0a2ce960df0cf3e4cbced050b810&user=37076
+http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1751487429&playlistlength=5&shift=0&sid=coder_51&token=aafb54f0dcfadfdcefe1926e83f881f0&user=37076
 #EXTINF:-1 tvg-name="Dünya TV 720p" tvg-id="Dünya TV 720p.tr" tvg-logo="https://dunyatv.az/assets/img/logo/logo.png" group-title="AZERBAYCAN KANALLARI",Dünya TV 720p
 http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1751178023&playlistlength=5&shift=0&sid=coder_53&token=6fcb83fe6e66a78d621228c3630261ad&user=37076
 #EXTINF:-1 tvg-name="EL TV SD" tvg-id="EL TV SD.tr" tvg-logo="https://www.eltv.az/uploads/settings/eltv-logo67fb856149143.png" group-title="AZERBAYCAN KANALLARI",EL TV SD
