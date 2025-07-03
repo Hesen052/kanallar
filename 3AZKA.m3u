@@ -16,7 +16,7 @@ https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARB Güneş TV 1080p" tvg-id="ARB Güneş TV 1080p.tr" tvg-logo="https://arbgunesh.az/assets/images/logo.png" group-title="AZERBAYCAN KANALLARI",ARB Güneş TV 1080p
 https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w1890184662.m3u8?hash=bb9c9c9a38901cd1ffd8a3a440af97d9
 #EXTINF:-1 tvg-name="ARB TV 1080p" tvg-id="ARB TV 1080p.tr" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="AZERBAYCAN KANALLARI",ARB TV 1080p
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1751178025&playlistlength=5&shift=0&sid=coder_62&token=67211ec00051268735062e02258df15d&user=37076
+https://cdn900.canlitv.vip/arbtv.m3u8?tkn=8dDZtanvVfa_j2ZePcXzAA&tms=1751538534&hst=iframe.canlitv.vip&ip=31.170.236.101
 #EXTINF:-1 tvg-name="İctimai TV 1080p" tvg-id="İctimai TV 1080p.tr" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="AZERBAYCAN KANALLARI",İctimai TV 1080p
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:-1 tvg-name="Space TV 720p" tvg-id="Space TV 720p.tr" tvg-logo="https://acra.gov.az/storage/1182/Space-Logo--(1).jpg" group-title="AZERBAYCAN KANALLARI",Space TV 720p
